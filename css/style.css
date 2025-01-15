@@ -25,6 +25,18 @@
     z-index: 99;
 }
 
+.text-primary {
+    color: #4987d7 !important;
+}
+
+.btn-primary {
+    background-color: #4987d7 !important;
+    border-color: #4987d7 !important;
+}
+.btn-primary:hover {
+    background-color: #124d99 !important;
+    border-color: #124d99 !important;
+}
 
 /*** Spinner ***/
 #spinner {
